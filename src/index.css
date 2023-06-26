@@ -1,0 +1,17 @@
+
+@media screen and (max-width: 900px) {
+  #rapaz,#moça{
+    width: 100%;
+  }
+  #tenis,#sandalia{
+    margin: auto;
+  }
+#txt{
+  font-size:large;
+}  
+}
+@media screen and(max-width:705px){
+img{
+  width: 200px;
+}
+}
