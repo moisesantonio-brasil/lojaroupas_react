@@ -1,8 +1,7 @@
 /* eslint-disable no-unused-vars */
 import * as React from 'react'
 import {Link} from "react-router-dom"
-import Logocentro from '/Users/moise/Desktop/Projetos/REACT/LOJA_ROUPAS/loja_roupas/src/imagens/logo.png'
-import Logo_fundo from '/Users/moise/Desktop/Projetos/REACT/LOJA_ROUPAS/loja_roupas/src/imagens/fundo_parede.png'
+
 import Blusa1 from '../imagens/blusa_masculina_frio/moletom1.png'
 import Blusa2 from '../imagens/blusa_masculina_frio/moletom2.png'
 import Blusa3 from '../imagens/blusa_masculina_frio/moletom3.png'
