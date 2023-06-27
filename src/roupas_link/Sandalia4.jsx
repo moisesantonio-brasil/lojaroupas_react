@@ -2,7 +2,6 @@
 import * as React from 'react'
 
 import Imagem from "/Users/moise/Desktop/Projetos/REACT/LOJA_ROUPAS/loja_roupas/src/imagens/sandália_feminina/Sandalia04.png"
-
 const Sandalia4 = () =>{
     const fundo_valores = {
         width:"400px",
