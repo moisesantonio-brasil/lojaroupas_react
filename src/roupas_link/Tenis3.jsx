@@ -1,7 +1,7 @@
 /* eslint-disable no-unused-vars */
 import * as React from 'react'
 
-import Imagem from "../imagens/Tenis/Tenis06.png"
+import Imagem from "../imagens/Tenis/tenis06.png"
 
 const Tenis3 = () =>{
     const fundo_valores = {
