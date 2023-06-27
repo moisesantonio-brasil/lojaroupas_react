@@ -12,7 +12,7 @@ import Blusa1f from '../imagens/blusa_feminina_frio/sueter01.png'
 import Blusa2f from '../imagens/blusa_feminina_frio/sueter02.png'
 import Blusa3f from '../imagens/blusa_feminina_frio/sueter03.png'
 import Blusa4f from '../imagens/blusa_feminina_frio/sueter04.png'
-import Blusa5f from './imagens/blusa_feminina_frio/sueter05.png'
+import Blusa5f from '../imagens/blusa_feminina_frio/sueter05.png'
 
 import Rapazmodelo from '../imagens/fundo_modelo/modelo-mascuolino.png'
 import Moçamodelo from '../imagens/fundo_modelo/modelo-feminina.png'
